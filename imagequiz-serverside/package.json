@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gpmeyers/imagequiz-serverside.git"
+    "url": "git+https://github.com/BermanBai/imagequiz-serverside.git"
   },
-  "author": "Graysen Meyers (gpmeyers@email.arizona.edu)",
+  "author": "Graysen Meyers (jinhanbai@email.arizona.edu)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gpmeyers/imagequiz-serverside/issues"
+    "url": "https://github.com/bermanbai/imagequiz-serverside/issues"
   },
-  "homepage": "https://github.com/gpmeyers/imagequiz-serverside#readme",
+  "homepage": "https://github.com/bermanbai/imagequiz-serverside#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"
